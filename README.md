@@ -2,7 +2,7 @@
 
 [Google Colab](https://colab.research.google.com/drive/1J1nag-XlanlfbeH8hSshsqPMaelSnDkf#scrollTo=2IukvoLHcLC9)
 
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/kymatio/kymatio/subscription)
+[![Star on GitHub](https://img.shields.io/github/stars/kymatio/kymatio/hyde.svg?style=social)](https://github.com/kymatio/kymatio/subscription)
 
 In this tutorial we will work through examples of `Scattering1D` (Time Scattering) in Kymatio.
 
