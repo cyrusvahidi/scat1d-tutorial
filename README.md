@@ -2,7 +2,6 @@
 
 [Google Colab](https://colab.research.google.com/drive/1J1nag-XlanlfbeH8hSshsqPMaelSnDkf#scrollTo=2IukvoLHcLC9)
 
-[<iframe src="https://ghbtns.com/github-btn.html?user=kymatio&repo=kymatio&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>]
 In this tutorial we will work through examples of `Scattering1D` (Time Scattering) in Kymatio.
 
 The intention is to gain an intuition of the physical properties of modulated signals and their scattering transform.
